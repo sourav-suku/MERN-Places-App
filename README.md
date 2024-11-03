@@ -1,1 +1,1 @@
-MERN-Places-App
+**MERN-Places-App**
